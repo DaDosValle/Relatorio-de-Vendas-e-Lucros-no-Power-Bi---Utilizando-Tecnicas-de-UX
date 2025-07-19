@@ -26,6 +26,9 @@ Os dados utilizados vêm de uma base de amostra do próprio Power BI. O objetivo
 
 # Imagens das páginas dorelatório! 📊
 
+`Link para acesso ao relatório online` -  [Relatório de Vendas e Lucros](https://app.powerbi.com/links/Z2cKwoEXqu?ctid=4807485e-d240-43a9-a00e-217aa729141c&pbi_source=linkShare)
+
+
 * `Home`:
 ![Página: Home](https://github.com/DaDosValle/Imagens/blob/main/Home%20-Relatoriod%20e%20Vendas%20e%20Lucros%20-UX.png)
 
